@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/babies-quiz/static/css/main.a8fb9f9a.chunk.css",
+    "main.js": "/babies-quiz/static/js/main.a813d193.chunk.js",
+    "main.js.map": "/babies-quiz/static/js/main.a813d193.chunk.js.map",
+    "runtime-main.js": "/babies-quiz/static/js/runtime-main.2e990c13.js",
+    "runtime-main.js.map": "/babies-quiz/static/js/runtime-main.2e990c13.js.map",
+    "static/js/2.80353110.chunk.js": "/babies-quiz/static/js/2.80353110.chunk.js",
+    "static/js/2.80353110.chunk.js.map": "/babies-quiz/static/js/2.80353110.chunk.js.map",
+    "index.html": "/babies-quiz/index.html",
+    "precache-manifest.6cb45c525429a6514ea18e27667d12b4.js": "/babies-quiz/precache-manifest.6cb45c525429a6514ea18e27667d12b4.js",
+    "service-worker.js": "/babies-quiz/service-worker.js",
+    "static/css/main.a8fb9f9a.chunk.css.map": "/babies-quiz/static/css/main.a8fb9f9a.chunk.css.map",
+    "static/js/2.80353110.chunk.js.LICENSE.txt": "/babies-quiz/static/js/2.80353110.chunk.js.LICENSE.txt",
+    "static/media/alligator.png": "/babies-quiz/static/media/alligator.4623be4e.png",
+    "static/media/bear.png": "/babies-quiz/static/media/bear.6bff8ff7.png",
+    "static/media/bee.png": "/babies-quiz/static/media/bee.12b21390.png",
+    "static/media/butterfly.png": "/babies-quiz/static/media/butterfly.48602853.png",
+    "static/media/cat.png": "/babies-quiz/static/media/cat.a58aba1b.png",
+    "static/media/dog.png": "/babies-quiz/static/media/dog.c4e84158.png",
+    "static/media/elephant.png": "/babies-quiz/static/media/elephant.de153882.png",
+    "static/media/giraffe.png": "/babies-quiz/static/media/giraffe.5d2fe08f.png",
+    "static/media/monkey.png": "/babies-quiz/static/media/monkey.2e8ef9c8.png",
+    "static/media/penguin.png": "/babies-quiz/static/media/penguin.0f0fca28.png",
+    "static/media/rabbit.png": "/babies-quiz/static/media/rabbit.31854cfb.png",
+    "static/media/snake.png": "/babies-quiz/static/media/snake.0f84ad4c.png",
+    "static/media/tiger2.png": "/babies-quiz/static/media/tiger2.efa2204e.png",
+    "static/media/whale.png": "/babies-quiz/static/media/whale.14f8a593.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e990c13.js",
+    "static/js/2.80353110.chunk.js",
+    "static/css/main.a8fb9f9a.chunk.css",
+    "static/js/main.a813d193.chunk.js"
+  ]
+}
