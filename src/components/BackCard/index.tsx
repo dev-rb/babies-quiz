@@ -1,6 +1,11 @@
 import * as React from 'react';
 
-const BackCard: React.FC<{}> = () => {
+interface Props {
+    question: string,
+    answer: string
+}
+
+const BackCard: React.FC<Props> = ({ question, answer }) => {
     return (
 
     );

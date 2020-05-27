@@ -1,6 +1,13 @@
 import * as React from 'react';
 
-const AnimalCard: React.FC<{}> = () => {
+interface Props {
+    question: string,
+    answer: string,
+    image: string,
+    letter: string
+}
+
+const AnimalCard: React.FC<Props> = ({ question, answer, image, letter }) => {
     return (
 
     );

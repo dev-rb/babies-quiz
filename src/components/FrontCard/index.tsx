@@ -1,6 +1,11 @@
 import * as React from 'react';
 
-const FrontCard: React.FC<{}> = () => {
+interface Props {
+    image: string,
+    letter: string
+}
+
+const FrontCard: React.FC<Props> = ({ image, letter }) => {
     return (
 
     );
